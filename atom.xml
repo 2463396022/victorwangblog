@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>小白的小猪的博客</title>
+  <subtitle>一个学习的博客。</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://127.0.0.1:4000/"/>
+  <updated>2016-11-19T06:18:03.000Z</updated>
+  <id>http://127.0.0.1:4000/</id>
+  
+  <author>
+    <name>victorwang</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>victorwang测试</title>
+    <link href="http://127.0.0.1:4000/2016/11/19/victorwang%E6%B5%8B%E8%AF%95/"/>
+    <id>http://127.0.0.1:4000/2016/11/19/victorwang测试/</id>
+    <published>2016-11-19T06:02:56.000Z</published>
+    <updated>2016-11-19T06:18:03.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>以上是文章摘要<br><a id="more"></a><br>以下是余下全文测试测试</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;以上是文章摘要&lt;br&gt;
+    
+    </summary>
+    
+      <category term="遊戲開發" scheme="http://127.0.0.1:4000/categories/%E9%81%8A%E6%88%B2%E9%96%8B%E7%99%BC/"/>
+    
+    
+      <category term="cocos2d" scheme="http://127.0.0.1:4000/tags/cocos2d/"/>
+    
+  </entry>
+  
+</feed>
